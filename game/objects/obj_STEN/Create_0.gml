@@ -7,5 +7,3 @@ hspd = 0;
 
 evspd = 0;
 ehspd = 0;
-
-move_spd = 6;
