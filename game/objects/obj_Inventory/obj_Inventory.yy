@@ -1,41 +1,31 @@
 {
-    "id": "ffb445ff-8d69-4b00-a594-1ff37db8ef91",
+    "id": "179859e5-5db7-4a6e-a883-9c37f8681332",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Player",
+    "name": "obj_Inventory",
     "eventList": [
         {
-            "id": "f9d9f7ea-24c4-437b-acb8-baf0a13ce419",
+            "id": "a58aa9c1-6d42-4d13-8564-ac6e780cbf04",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "ffb445ff-8d69-4b00-a594-1ff37db8ef91"
+            "m_owner": "179859e5-5db7-4a6e-a883-9c37f8681332"
         },
         {
-            "id": "94580f35-86dc-4a41-8ca3-72cd200b50a4",
+            "id": "72956a48-2060-4b56-8ec7-7abc7f72dae7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "ffb445ff-8d69-4b00-a594-1ff37db8ef91"
-        },
-        {
-            "id": "0c18375f-7f57-4f85-b19e-982dda00999c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "078749b8-4d7b-4dbf-ab1d-7161f3e3e074",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "ffb445ff-8d69-4b00-a594-1ff37db8ef91"
+            "eventtype": 8,
+            "m_owner": "179859e5-5db7-4a6e-a883-9c37f8681332"
         }
     ],
-    "maskSpriteId": "9e086ed8-eeca-4443-a78a-9de21fe97104",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -51,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "822648cb-787a-479a-841d-63257029dd54",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
