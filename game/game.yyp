@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "073e87db-8782-4d92-8350-214f556dfc28",
+            "Value": {
+                "id": "85117066-7b0e-4059-bbd2-65e1faa01364",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2aa3f842-b0bb-4bf0-a1ce-5a46c1e5e960",
             "Value": {
                 "id": "ee9527d7-0931-4e6e-9e02-20c3b0b38324",
@@ -52,6 +60,14 @@
                 "id": "4bd1cd5f-b352-4829-9541-4d5d1b08d0cd",
                 "resourcePath": "views\\2eef24a4-4e66-4c9f-82a6-ce233f1cc98a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59d8c73e-69a6-4f44-a790-962db9e3c554",
+            "Value": {
+                "id": "0ba1c78c-5a45-4369-a481-c229bbdfb79a",
+                "resourcePath": "rooms\\rm_options\\rm_options.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -103,11 +119,27 @@
             }
         },
         {
+            "Key": "83e15a73-03a3-49f7-8c31-fa47300c8b0b",
+            "Value": {
+                "id": "dd7c6022-69e1-42c4-9ad8-f6223822106c",
+                "resourcePath": "scripts\\mouseOver\\mouseOver.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8e42fb3a-a272-4e92-a1c1-5daa32071216",
             "Value": {
                 "id": "2891bb2e-82df-4516-8e58-f5d0f790b947",
                 "resourcePath": "views\\8e42fb3a-a272-4e92-a1c1-5daa32071216.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ed1549f-0eb0-4e54-8020-2fd844b7bc8c",
+            "Value": {
+                "id": "aa251649-f420-4c41-8bfd-050483f8d70d",
+                "resourcePath": "fonts\\fnt_title\\fnt_title.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -143,14 +175,6 @@
             }
         },
         {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "7ad5a3c7-8ce6-4b91-9b40-072b4078ba79",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
             "Key": "b5525009-5f3d-4ae7-a064-3b2133dc8805",
             "Value": {
                 "id": "7668cd9d-b6ea-455a-8fea-5f2f3f1211d3",
@@ -183,6 +207,22 @@
             }
         },
         {
+            "Key": "c7a9ac31-317f-4c85-ace9-b5f929ae4a67",
+            "Value": {
+                "id": "28a708a3-0c82-460e-ae52-106a720eb2a2",
+                "resourcePath": "views\\645049f3-91bd-4747-898c-4572d0c2f969-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc0920b9-a871-456e-a42d-6efc8c754d75",
+            "Value": {
+                "id": "104d8bdd-9198-4cca-b2ae-511d86f280ee",
+                "resourcePath": "objects\\StartMeny\\StartMeny.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a98492c7-57f4-4a86-8676-ae14c16e8b2c",
@@ -196,6 +236,14 @@
                 "id": "a5da3016-eb92-4159-ac4b-9a6b075c28d9",
                 "resourcePath": "views\\d098fd1f-b3b7-4def-932a-166a730c4e2a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d84b7e41-890f-4326-bf74-472e6f2744fa",
+            "Value": {
+                "id": "03505378-1da4-4a6f-8577-cc8c23a670ef",
+                "resourcePath": "fonts\\fnt_meny\\fnt_meny.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -239,14 +287,6 @@
             }
         },
         {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "56397a75-2be4-49de-a003-563aa83c0c50",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
-            }
-        },
-        {
             "Key": "ffb445ff-8d69-4b00-a594-1ff37db8ef91",
             "Value": {
                 "id": "bd3f8b77-361a-4070-868b-b0328436dd0f",
@@ -265,7 +305,8 @@
     ],
     "script_order": [
         "062b97c0-9eda-4a2b-abac-a58fb65899b0",
-        "eabfa654-369c-4097-8bc7-61e87199e848"
+        "eabfa654-369c-4097-8bc7-61e87199e848",
+        "83e15a73-03a3-49f7-8c31-fa47300c8b0b"
     ],
     "tutorial": ""
 }
