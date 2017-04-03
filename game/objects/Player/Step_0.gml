@@ -1,5 +1,7 @@
 /// @description Move the player
 
+//if(global.pause) exit;
+
 //Get the input
 get_input();
 
