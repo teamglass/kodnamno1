@@ -2,7 +2,7 @@
     "id": "9c4de325-37d9-4d6e-99da-ca0086c97ee1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_conveyor",
+    "name": "obj_conveyor_right",
     "eventList": [
         
     ],
