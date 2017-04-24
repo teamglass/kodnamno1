@@ -6,7 +6,9 @@ for(i = 0; i<4; i++){
 			meeting = place_meeting(x+32, y, Stone);
 			//right
 			if(meeting){
-				image_index = 2;
+				image_index = 2;		
+				place = 2;
+				alarm_set(0, 30);
 			}
 			break;
 		case 1:
@@ -14,6 +16,8 @@ for(i = 0; i<4; i++){
 			//left
 			if(meeting){
 				image_index = 0;
+				place = 0;
+				alarm_set(0, 30);
 			}
 			break;
 		case 2:
@@ -21,6 +25,8 @@ for(i = 0; i<4; i++){
 			//down
 			if(meeting){
 				image_index = 3;
+				place = 3;
+				alarm_set(0, 30);
 			}
 			break;
 		case 3:
@@ -28,7 +34,13 @@ for(i = 0; i<4; i++){
 			//up
 			if(meeting){
 				image_index = 1;
+				place = 1;
+				alarm_set(0, 30);
 			}			
+			break;
+			
+		default:
+			
 			break;
 	}
 }
