@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "7f765df0-1ee7-4fe7-bebb-44f9c1a64591",
+            "Value": {
+                "id": "9e64a40a-61ea-4130-8bc2-4e502870e1b2",
+                "resourcePath": "objects\\Arm\\Arm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8192f725-17d1-4af7-94cd-c841f4049e13",
             "Value": {
                 "id": "10975937-950d-4aba-b9fe-d654ea115df5",
@@ -156,6 +164,14 @@
                 "id": "09171857-dbe9-4733-b6b5-fb8b317e4e93",
                 "resourcePath": "views\\985700ae-1374-47ee-8981-c9b094a8bc15.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "996fd0d8-ff24-4d48-b478-b1b2a09286d6",
+            "Value": {
+                "id": "a8c6d550-a649-4d4d-835c-daefa1d5e087",
+                "resourcePath": "sprites\\spr_arm\\spr_arm.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -226,7 +242,7 @@
             "Key": "d51a5ee1-a71c-4015-82f3-53be802f5299",
             "Value": {
                 "id": "6d5c79ea-673e-464a-bb5f-6c4fab4c40dd",
-                "resourcePath": "objects\\obj_STEN\\obj_STEN.yy",
+                "resourcePath": "objects\\Stone\\Stone.yy",
                 "resourceType": "GMObject"
             }
         },
