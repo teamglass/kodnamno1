@@ -17,7 +17,13 @@ for(i = 0; i<4; i++){
 			if(meeting){
 				image_index = 0;
 				place = 0;
-				alarm_set(0, 30);
+				if(alarm_get(0) <= 0){
+					if(alarm_get(10) <= 0){
+						alarm_set(0, 30);
+					}
+					
+				}
+				instance = instance_place(x-32, y, Stone);
 			}
 			break;
 		case 2:
