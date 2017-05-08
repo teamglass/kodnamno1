@@ -4,6 +4,7 @@ switch(left_place){
 		image_index = 2;
 		instance.y = y;
 		instance.x = x+32;
+		alarm_set(10, 100);
 		break;
 	case "up":
 		image_index = 1;
