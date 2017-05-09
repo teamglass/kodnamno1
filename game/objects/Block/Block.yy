@@ -1,13 +1,13 @@
 {
-    "id": "eec9765d-d01a-4564-9d60-224cbb503f66",
+    "id": "2854247d-cc7c-4519-bfdf-5afdb605849b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Conveyor_left",
+    "name": "Block",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "2854247d-cc7c-4519-bfdf-5afdb605849b",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "1758bdbe-5dd7-4f99-81d1-3bacca187f34",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
