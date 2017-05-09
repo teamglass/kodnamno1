@@ -2,7 +2,7 @@
     "id": "e9dd8421-fcc0-4e50-886f-26c360f6495d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Conveyor_place",
+    "name": "Conveyor",
     "eventList": [
         
     ],

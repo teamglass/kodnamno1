@@ -82,7 +82,7 @@
             "Key": "39cf4b0f-329e-44d0-a7e8-017635d2b62e",
             "Value": {
                 "id": "b37c1091-fbdd-4592-bf46-263a44327b6d",
-                "resourcePath": "sprites\\spr_conveyor_place\\spr_conveyor_place.yy",
+                "resourcePath": "sprites\\spr_conveyor\\spr_conveyor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "e9dd8421-fcc0-4e50-886f-26c360f6495d",
             "Value": {
                 "id": "4b072697-a777-4751-ad14-e2cfc72023f4",
-                "resourcePath": "objects\\Conveyor_place\\Conveyor_place.yy",
+                "resourcePath": "objects\\Conveyor\\Conveyor.yy",
                 "resourceType": "GMObject"
             }
         },

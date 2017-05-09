@@ -2,7 +2,7 @@
     "id": "39cf4b0f-329e-44d0-a7e8-017635d2b62e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_conveyor_place",
+    "name": "spr_conveyor",
     "For3D": false,
     "HTile": false,
     "VTile": false,
