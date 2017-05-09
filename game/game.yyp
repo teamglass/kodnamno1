@@ -186,7 +186,7 @@
             "Key": "9c4de325-37d9-4d6e-99da-ca0086c97ee1",
             "Value": {
                 "id": "168bd2a8-1e83-4c6c-b5b3-dfc7bb7810de",
-                "resourcePath": "objects\\obj_conveyor_right\\obj_conveyor_right.yy",
+                "resourcePath": "objects\\Conveyor_right\\Conveyor_right.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "b2685531-87bb-4798-962d-f6fabd4a451a",
             "Value": {
                 "id": "ea3952e1-e056-4bb9-b001-9dfe4bbbff32",
-                "resourcePath": "objects\\obj_conveyor_up\\obj_conveyor_up.yy",
+                "resourcePath": "objects\\Conveyor_up\\Conveyor_up.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -266,7 +266,7 @@
             "Key": "d51a5ee1-a71c-4015-82f3-53be802f5299",
             "Value": {
                 "id": "6d5c79ea-673e-464a-bb5f-6c4fab4c40dd",
-                "resourcePath": "objects\\obj_STEN\\obj_STEN.yy",
+                "resourcePath": "objects\\Stone\\Stone.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -298,7 +298,7 @@
             "Key": "eec9765d-d01a-4564-9d60-224cbb503f66",
             "Value": {
                 "id": "aff7534b-c562-46e6-8cad-0bb74680d30f",
-                "resourcePath": "objects\\obj_conveyor_left\\obj_conveyor_left.yy",
+                "resourcePath": "objects\\Conveyor_left\\Conveyor_left.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "f9a3d429-d8ce-45e4-b35d-67563078edda",
             "Value": {
                 "id": "02e3fef6-eaa7-4ff3-880f-4afde25fc66e",
-                "resourcePath": "objects\\obj_conveyor_down\\obj_conveyor_down.yy",
+                "resourcePath": "objects\\Conveyor_down\\Conveyor_down.yy",
                 "resourceType": "GMObject"
             }
         },

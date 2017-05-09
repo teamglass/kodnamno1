@@ -2,7 +2,7 @@
     "id": "d51a5ee1-a71c-4015-82f3-53be802f5299",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_STEN",
+    "name": "Stone",
     "eventList": [
         {
             "id": "2f1b92ac-77d2-41c8-a799-99ad65f657a3",

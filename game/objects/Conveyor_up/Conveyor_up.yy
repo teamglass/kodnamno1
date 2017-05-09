@@ -1,8 +1,8 @@
 {
-    "id": "eec9765d-d01a-4564-9d60-224cbb503f66",
+    "id": "b2685531-87bb-4798-962d-f6fabd4a451a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_conveyor_left",
+    "name": "Conveyor_up",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "1758bdbe-5dd7-4f99-81d1-3bacca187f34",
+    "spriteId": "1db14ba6-0ca4-4f4a-abdf-e148230b15cb",
     "visible": true
 }
