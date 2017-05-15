@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "7f765df0-1ee7-4fe7-bebb-44f9c1a64591",
+            "Value": {
+                "id": "9e64a40a-61ea-4130-8bc2-4e502870e1b2",
+                "resourcePath": "objects\\Arm\\Arm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8192f725-17d1-4af7-94cd-c841f4049e13",
             "Value": {
                 "id": "10975937-950d-4aba-b9fe-d654ea115df5",
@@ -223,6 +231,16 @@
             }
         },
         {
+
+        {
+            "Key": "9c4de325-37d9-4d6e-99da-ca0086c97ee1",
+            "Value": {
+                "id": "168bd2a8-1e83-4c6c-b5b3-dfc7bb7810de",
+                "resourcePath": "objects\\obj_conveyor\\obj_conveyor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e086ed8-eeca-4443-a78a-9de21fe97104",
             "Value": {
                 "id": "879085f5-bc9d-4870-8f43-bfee12ec47c9",
@@ -233,12 +251,15 @@
         {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
-                "id": "1fa2090a-522d-488d-bcee-9c787ad032fb",
+
+                "id": "8f88fba1-4757-49f4-8660-f73f8eb3b3bd",
+
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
             }
         },
         {
+
             "Key": "aa203750-d564-44c6-8336-6b4bf27e8474",
             "Value": {
                 "id": "44c790fe-f9b0-4add-b964-7ad12fe14129",
@@ -247,6 +268,7 @@
             }
         },
         {
+
             "Key": "b5525009-5f3d-4ae7-a064-3b2133dc8805",
             "Value": {
                 "id": "7668cd9d-b6ea-455a-8fea-5f2f3f1211d3",
@@ -360,6 +382,16 @@
         },
         {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+
+            "Value": {
+                "id": "b5de11fe-2050-4b55-b14f-96c66a969acd",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f9a3d429-d8ce-45e4-b35d-67563078edda",
+
             "Value": {
                 "id": "5322e700-3c68-4117-93ab-d64b21a5b20f",
                 "resourcePath": "options\\mac\\options_mac.yy",
