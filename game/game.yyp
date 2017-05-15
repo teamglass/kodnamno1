@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "58d8d38c-f41e-4d3d-8f01-1119960ee491",
+            "Value": {
+                "id": "3c08c53c-0471-4d2f-a9b9-9c2703a9d6d8",
+                "resourcePath": "rooms\\rm_main\\rm_main.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5c1e7592-7a63-4961-909f-173c986572c7",
             "Value": {
                 "id": "b7a1dc4a-9cfa-4b8a-a60d-c5d8b58ecf0d",
@@ -106,6 +114,14 @@
             "Key": "645049f3-91bd-4747-898c-4572d0c2f969",
             "Value": {
                 "id": "9a5ae561-6990-4b55-8c59-d98170f4706f",
+                "resourcePath": "rooms\\rm_main\\rm_main.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "66098401-9d25-4f46-961f-ad23708a00da",
+            "Value": {
+                "id": "a5e00188-674a-4e0a-8e5a-8a27c07cd03c",
                 "resourcePath": "rooms\\rm_main\\rm_main.yy",
                 "resourceType": "GMRoom"
             }
