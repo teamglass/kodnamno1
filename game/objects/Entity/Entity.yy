@@ -1,8 +1,8 @@
 {
-    "id": "9c4de325-37d9-4d6e-99da-ca0086c97ee1",
+    "id": "c1f7b62b-3d04-470b-9cbc-17f8f4155388",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_conveyor",
+    "name": "Entity",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "8ef03908-aa7b-48f3-8a66-1dbdacf08c5a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
