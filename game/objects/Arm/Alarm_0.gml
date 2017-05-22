@@ -1,5 +1,8 @@
 /// @description center
 image_index = 4;
+instance.x = x;
+instance.y = y-20;
+show_debug_message(timor);
 switch(place){
 	case 0:
 		alarm_set(1, 30);

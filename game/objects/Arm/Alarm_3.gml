@@ -1,6 +1,4 @@
-/// @description
-show_debug_message(timor);
-switch(left_place){
+switch(right_place){
 	case "right":
 		image_index = 2;
 		instance.y = y;
