@@ -9,13 +9,13 @@ switch(left_place){
 		break;
 	case "up":
 		image_index = 1;
-		instance.y = y+32;
+		instance.y = y-32;
 		instance.x = x;
 		alarm_set(5, 100);
 		break;
 	case "down":
 		image_index = 4;
-		instance.y = y-32;
+		instance.y = y+32;
 		instance.x = x;
 		alarm_set(5, 100);
 		break;

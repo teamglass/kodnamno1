@@ -13,6 +13,7 @@ for(i = 0; i<4; i++){
 			meeting = place_meeting(x+32, y, Stone);
 			//right
 			if(meeting){
+			bussy = 1;
 				image_index = 2;		
 				place = 2;
 				if(alarm_get(0) <= 0){
@@ -21,6 +22,7 @@ for(i = 0; i<4; i++){
 					}
 					
 				}
+				instance = instance_place(x+32, y, Stone);
 			}
 			break;
 		case 1:
@@ -43,6 +45,7 @@ for(i = 0; i<4; i++){
 			meeting = place_meeting(x, y+32, Stone);
 			//down
 			if(meeting){
+				bussy = 1;
 				image_index = 3;
 				place = 3;
 				if(alarm_get(0) <= 0){
@@ -51,12 +54,14 @@ for(i = 0; i<4; i++){
 					}
 					
 				}
+				instance = instance_place(x, y+32, Stone);
 			}
 			break;
 		case 3:
 			meeting = place_meeting(x, y-32, Stone);
 			//up
 			if(meeting){
+				bussy = 1;
 				image_index = 1;
 				place = 1;
 				if(alarm_get(0) <= 0){
@@ -65,6 +70,7 @@ for(i = 0; i<4; i++){
 					}
 					
 				}
+				instance = instance_place(x, y-32, Stone);
 			}			
 			break;
 			
