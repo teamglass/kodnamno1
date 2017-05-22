@@ -1,10 +1,12 @@
 /// @description
+show_debug_message(timor);
 switch(left_place){
 	case "right":
 		image_index = 2;
 		instance.y = y;
 		instance.x = x+32;
 		alarm_set(10, 100);
+		alarm_set(5, 50);
 		break;
 	case "up":
 		image_index = 1;

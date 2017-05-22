@@ -1,9 +1,11 @@
 /// @description stop
 
 if(!bussy){
-	timor++;
-}
+	timor = 1;
+}else{
 
+timor++;
+}
 for(i = 0; i<4; i++){
 	//chech all pos around arm
 	switch(i){
@@ -25,6 +27,7 @@ for(i = 0; i<4; i++){
 			meeting = place_meeting(x-32, y, Stone);
 			//left
 			if(meeting){
+				bussy = 1;
 				image_index = 0;
 				place = 0;
 				if(alarm_get(0) <= 0){
