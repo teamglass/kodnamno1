@@ -1,1 +1,0 @@
-properties = ["Conveyor", "block", true, true, false, spr_conveyor_right, spr_conveyor_down, spr_conveyor_left, spr_conveyor_up, spr_conveyor];

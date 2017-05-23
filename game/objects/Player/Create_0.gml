@@ -1,8 +1,5 @@
 /// @description Initialize varibles
 
-//Items
-item = Conveyor;
-item_rot = 0;
 
 //Movement
 vspd = 0;

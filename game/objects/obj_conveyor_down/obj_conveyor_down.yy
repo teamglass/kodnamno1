@@ -1,19 +1,10 @@
 {
-    "id": "e9dd8421-fcc0-4e50-886f-26c360f6495d",
+    "id": "f9a3d429-d8ce-45e4-b35d-67563078edda",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Conveyor",
+    "name": "obj_conveyor_down",
     "eventList": [
-        {
-            "id": "4ea1426d-690b-42ef-9508-6e0b9e8f7148",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e9dd8421-fcc0-4e50-886f-26c360f6495d"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "39cf4b0f-329e-44d0-a7e8-017635d2b62e",
+    "spriteId": "69f30823-44b5-4f27-8130-cb42ddb466d5",
     "visible": true
 }

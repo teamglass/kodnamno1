@@ -23,7 +23,6 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "d51a5ee1-a71c-4015-82f3-53be802f5299"
-
         },
         {
             "id": "bd830853-f893-4c77-aaf7-5f72bbd53f00",
