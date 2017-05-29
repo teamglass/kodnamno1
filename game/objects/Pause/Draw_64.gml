@@ -11,7 +11,11 @@ if(global.pause){
 	draw_set_color(c_gray);
 	draw_rectangle(camera_get_view_width(0)/2-80,camera_get_view_height(0)/2,camera_get_view_width(0)/2+80,camera_get_view_height(0)/2+50,0);
 	draw_set_color(c_white);
-	draw_text(camera_get_view_width(0)/2,camera_get_view_height(0)/2+13, "options");	
+	draw_text(camera_get_view_width(0)/2,camera_get_view_height(0)/2+13, "options");
+	draw_set_color(c_gray);	
+	draw_rectangle(camera_get_view_width(0)/2-80,camera_get_view_height(0)/2+60,camera_get_view_width(0)/2+80,camera_get_view_height(0)/2+110,0);
+	draw_set_color(c_white);
+	draw_text(camera_get_view_width(0)/2,camera_get_view_height(0)/2+13+60, "save");
 	
 }else{
 	instance_activate_all();
