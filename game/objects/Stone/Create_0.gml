@@ -1,5 +1,5 @@
 /// @description Initialize varibles
-
+name = "stone";
 
 //Movement
 vspd = 0;

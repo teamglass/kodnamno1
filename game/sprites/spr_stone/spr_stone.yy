@@ -2,7 +2,7 @@
     "id": "5c1e7592-7a63-4961-909f-173c986572c7",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_STEN",
+    "name": "spr_stone",
     "For3D": false,
     "HTile": false,
     "VTile": false,
