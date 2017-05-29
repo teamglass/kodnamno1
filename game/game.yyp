@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "56203f18-dfb5-46b3-b256-02f6dd367477",
+            "Value": {
+                "id": "fe78d144-e50e-4ea4-9da3-4ea486f20bca",
+                "resourcePath": "objects\\Pause\\Pause.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5c1e7592-7a63-4961-909f-173c986572c7",
             "Value": {
                 "id": "b7a1dc4a-9cfa-4b8a-a60d-c5d8b58ecf0d",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "91fb5c6d-8d87-4d73-b24a-5e6aa1d01961",
+            "Value": {
+                "id": "a7cd9735-5f8b-4e6c-9eb1-0ba4f8baa919",
+                "resourcePath": "scripts\\mouseOver\\mouseOver.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "952a285f-3a1b-4c21-8f40-5216cd7d5e57",
             "Value": {
                 "id": "e521bc33-7b59-42f5-b784-4cc3165155b4",
@@ -188,6 +204,14 @@
                 "id": "879085f5-bc9d-4870-8f43-bfee12ec47c9",
                 "resourcePath": "sprites\\spr_player_hitbox\\spr_player_hitbox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a29b46f5-19fd-4530-9559-5309a61a8d2e",
+            "Value": {
+                "id": "4cd6a0c6-f85e-4f5e-8a8a-84ca1adbda0a",
+                "resourcePath": "fonts\\fnt_meny\\fnt_meny.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -313,7 +337,8 @@
     ],
     "script_order": [
         "062b97c0-9eda-4a2b-abac-a58fb65899b0",
-        "eabfa654-369c-4097-8bc7-61e87199e848"
+        "eabfa654-369c-4097-8bc7-61e87199e848",
+        "91fb5c6d-8d87-4d73-b24a-5e6aa1d01961"
     ],
     "tutorial": ""
 }
