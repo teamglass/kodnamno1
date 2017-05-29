@@ -1,5 +1,5 @@
 {
-    "id": "179859e5-5db7-4a6e-a883-9c37f8681332",
+    "id": "bff7cd7e-a85c-479c-9b81-a50ad5d5a3ef",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_Inventory",
@@ -12,7 +12,7 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "179859e5-5db7-4a6e-a883-9c37f8681332"
+            "m_owner": "bff7cd7e-a85c-479c-9b81-a50ad5d5a3ef"
         },
         {
             "id": "72956a48-2060-4b56-8ec7-7abc7f72dae7",
@@ -22,7 +22,7 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 64,
             "eventtype": 8,
-            "m_owner": "179859e5-5db7-4a6e-a883-9c37f8681332"
+            "m_owner": "bff7cd7e-a85c-479c-9b81-a50ad5d5a3ef"
         },
         {
             "id": "d168e1c7-8d3e-4082-bcb7-5420e2cae99a",
@@ -32,7 +32,7 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 73,
             "eventtype": 9,
-            "m_owner": "179859e5-5db7-4a6e-a883-9c37f8681332"
+            "m_owner": "bff7cd7e-a85c-479c-9b81-a50ad5d5a3ef"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

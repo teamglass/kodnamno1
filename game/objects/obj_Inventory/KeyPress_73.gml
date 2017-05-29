@@ -5,3 +5,4 @@ if(invs == 0){
 	visible = false;
 	invs = 0;
 }
+show_debug_message("iii")
