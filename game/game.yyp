@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "6ee0ec41-a8dc-47cf-ab4b-2b4ccd420680",
+            "Value": {
+                "id": "a1517e6c-321b-4692-a1fc-4ae62c203310",
+                "resourcePath": "sprites\\spr_hotbar\\spr_hotbar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75ff5c60-c394-4e47-966d-6f993139d40d",
+            "Value": {
+                "id": "79eb7dfb-457d-4459-ba62-a4589c42b408",
+                "resourcePath": "objects\\Hotbar\\Hotbar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7cb6ca32-27ee-438f-a294-2c946421a69b",
             "Value": {
                 "id": "d077525d-bf61-49f9-9932-f18d821334a0",
@@ -266,7 +282,7 @@
             "Key": "bff7cd7e-a85c-479c-9b81-a50ad5d5a3ef",
             "Value": {
                 "id": "71067778-9d2a-4ff8-86f5-c0a0434d4d25",
-                "resourcePath": "objects\\obj_Inventory\\obj_Inventory.yy",
+                "resourcePath": "objects\\Inventory\\Inventory.yy",
                 "resourceType": "GMObject"
             }
         },
