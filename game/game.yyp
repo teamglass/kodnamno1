@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "75ff5c60-c394-4e47-966d-6f993139d40d",
-            "Value": {
-                "id": "79eb7dfb-457d-4459-ba62-a4589c42b408",
-                "resourcePath": "objects\\Hotbar\\Hotbar.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7cb6ca32-27ee-438f-a294-2c946421a69b",
             "Value": {
                 "id": "d077525d-bf61-49f9-9932-f18d821334a0",
