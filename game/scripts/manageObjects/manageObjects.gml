@@ -24,6 +24,8 @@ for(i = 0; i < totalSlots; i++){
 			show_debug_message("h1");
 			if(global.slot[0] == "stone"){
 				show_debug_message("hh1");
+				global.slot[0] = "noone";
+				global.hotbar[1] = "stone";
 			}
 		}
 	}

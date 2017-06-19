@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "182d5c3f-2bcf-45bf-b352-36b98e94833d",
+            "Value": {
+                "id": "3b85bb96-e78c-4a37-806f-7a6ac5729a6d",
+                "resourcePath": "objects\\Hotbar\\Hotbar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "20192b69-ba4c-4ebf-9edb-36fffe9530fa",
             "Value": {
                 "id": "3e50d388-7ec9-4e18-907e-8e0daa7466f2",
