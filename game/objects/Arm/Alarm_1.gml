@@ -6,10 +6,29 @@ switch(left_place){
 		if(crate){
 			instcrate = instance_place(x+32, y, Crate);
 			if(instance.name == "stone"){
-				instcrate.stone = instcrate.stone + 1;
-				instance_destroy(instance,0,0);
-				addToInv(instance.name);
-				with(instance) instance_destroy();
+				inv = instcrate;
+				var toName = instance.name;
+
+				for(i = 0; i < inv.totalSlots; i++){
+
+					if(instcrate.slot[i] == toName){
+						if(toName == "stone") instcrate.stone++;
+						break;
+					}
+
+					if(i == inv.totalSlots-1){
+	
+						for(j = 0; j < inv.totalSlots; j++){
+		
+							if(instcrate.slot[j] == "noone"){
+								instcrate.slot[j] = toName;
+								if(toName == "stone") instcrate.stone++;
+								break;
+							}
+						}
+					}
+				}
+			with(instance) instance_destroy();
 			}
 		}
 		else{

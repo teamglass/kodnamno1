@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "258340dc-d0cd-43b6-a6dd-ed2b01848e49",
-            "Value": {
-                "id": "31f7aee1-b7d2-48fc-990e-ebf86f3ec30d",
-                "resourcePath": "scripts\\addList\\addList.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "2aa3f842-b0bb-4bf0-a1ce-5a46c1e5e960",
             "Value": {
                 "id": "ee9527d7-0931-4e6e-9e02-20c3b0b38324",
@@ -423,14 +415,6 @@
             }
         },
         {
-            "Key": "f144bd58-b3eb-4198-a615-cc7e404080f8",
-            "Value": {
-                "id": "1955d0d2-2058-4fdd-bcc5-e23927d4e1a5",
-                "resourcePath": "scripts\\addToInvCrate\\addToInvCrate.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "f277b738-c3c1-4b57-b0ec-7b2d3ee2eec9",
             "Value": {
                 "id": "46a8a7ce-29c7-44ec-b2ff-ea460d49cf6b",
@@ -444,14 +428,6 @@
                 "id": "02e3fef6-eaa7-4ff3-880f-4afde25fc66e",
                 "resourcePath": "objects\\obj_conveyor_down\\obj_conveyor_down.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f9d7303c-7d0b-42f9-8814-b6e6928c6745",
-            "Value": {
-                "id": "fa7761e7-0c71-4012-bdc2-ceb434d51d30",
-                "resourcePath": "scripts\\addToInv\\addToInv.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -475,13 +451,10 @@
         "062b97c0-9eda-4a2b-abac-a58fb65899b0",
         "eabfa654-369c-4097-8bc7-61e87199e848",
         "91fb5c6d-8d87-4d73-b24a-5e6aa1d01961",
-        "258340dc-d0cd-43b6-a6dd-ed2b01848e49",
-        "f9d7303c-7d0b-42f9-8814-b6e6928c6745",
         "1660d3b5-eca3-4285-b044-d6ce6df97c68",
         "d1bb3de8-1ddd-4d8b-9ef2-5182af3e48a1",
         "b8148a93-9909-4a09-88ab-5a442b5225e5",
-        "30b55313-d3a4-4819-ba56-24103c8d01fa",
-        "f144bd58-b3eb-4198-a615-cc7e404080f8"
+        "30b55313-d3a4-4819-ba56-24103c8d01fa"
     ],
     "tutorial": ""
 }

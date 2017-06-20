@@ -1,6 +1,6 @@
 if(keyboard_check(ord("1"))){
 	if(folo == 0){
-		if(!Inventory.invs){
+		if(!Inventory.invs || !Crate.vis){
 			if(global.hotbar[0] == "stone"){
 				folo = 1;
 				folow = "stone";

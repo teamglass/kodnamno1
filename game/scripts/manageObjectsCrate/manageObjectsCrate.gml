@@ -27,6 +27,8 @@ for(i = 0; i < totalSlots; i++){
 					show_debug_message("hh1");
 					slot[0] = "noone";
 					global.hotbar[0] = "stone";
+					global.stone = stone;
+					stone = 0;
 				}
 			}
 		}
