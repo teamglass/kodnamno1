@@ -23,9 +23,11 @@ for(i = 0; i < totalSlots; i++){
 		//if(mouseOver(500, 550, 750, 800)){
 			show_debug_message("h1");
 			if(global.slot[0] == "stone"){
-				show_debug_message("hh1");
-				global.slot[0] = "noone";
-				global.hotbar[0] = "stone";
+				if(global.hotbar[0] == "noone"){
+					show_debug_message("hh1");
+					global.slot[0] = "noone";
+					global.hotbar[0] = "stone";
+				}
 			}
 		}
 	}

@@ -174,7 +174,8 @@
         "fde6adf9-8937-4121-ae1b-2886fa7dc623",
         "92b862ef-8c27-4f56-9536-6181abe8e099",
         "0f52d181-63c6-47a6-8289-fc8eb0dcb4d3",
-        "eb403d83-11fe-4cab-9763-600c0b27081c"
+        "4c927002-2970-4c72-832c-605eae82c31a",
+        "5bd7f66a-db73-40ef-8446-545235e79bd0"
     ],
     "layers": [
         {
@@ -225,14 +226,14 @@
                     "scaleY": 1
                 },
                 {
-                    "id": "eb403d83-11fe-4cab-9763-600c0b27081c",
+                    "id": "4c927002-2970-4c72-832c-605eae82c31a",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_19F2EDCF",
+                    "name": "inst_707DE0E2",
                     "x": 32,
                     "y": 0,
                     "IsDnD": false,
@@ -242,8 +243,8 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_19F2EDCF",
-                    "objId": "182d5c3f-2bcf-45bf-b352-36b98e94833d",
+                    "name_with_no_file_rename": "inst_707DE0E2",
+                    "objId": "d50fdeb3-ff2f-4cb7-82a3-e01debd09b09",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -4230,6 +4231,30 @@
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_146B3E7D",
                     "objId": "bff7cd7e-a85c-479c-9b81-a50ad5d5a3ef",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "5bd7f66a-db73-40ef-8446-545235e79bd0",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_F70A30C",
+                    "x": 48,
+                    "y": 0,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_F70A30C",
+                    "objId": "182d5c3f-2bcf-45bf-b352-36b98e94833d",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
