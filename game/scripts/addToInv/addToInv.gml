@@ -1,4 +1,4 @@
-inv = obj_Inventory;
+inv = Inventory;
 var toName = argument0;
 
 for(i = 0; i < inv.totalSlots; i++){
