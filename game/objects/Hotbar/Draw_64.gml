@@ -12,19 +12,19 @@ var height = 100;
 for(xx = startX+32; xx < startX+width; xx += 115){
 	for(yy =startY+96; yy < startY+height; yy += 64){
 			
-			coordX[curSlot] = xx;
-			coordY[curSlot] = yy;
+			cooordX[curhSlot] = xx;
+			cooordY[curhSlot] = yy;
 			
 			draw_set_color(c_gray);
 			draw_set_alpha(0.95);
 			draw_rectangle(xx, yy, xx+cellWidth, yy+cellHeight, false);
 			
-			curSlot++;
-			if(curSlot >= totalSlots-1) curSlot = 0;
+			curhSlot++;
+			if(curhSlot >= totalhSlots-1) curhSlot = 0;
 		
 	}
 	
-	manageObjects(cellWidth, cellHeight);
+	manageObjectshot(cellWidth, cellHeight);
 }
 
 draw_set_alpha(1);

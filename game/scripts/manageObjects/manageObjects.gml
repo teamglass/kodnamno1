@@ -25,9 +25,26 @@ for(i = 0; i < totalSlots; i++){
 			if(global.slot[0] == "stone"){
 				show_debug_message("hh1");
 				global.slot[0] = "noone";
+				global.hotbar[0] = "stone";
+			}
+		}
+	}
+	if(keyboard_check(ord("2"))){
+		show_debug_message(coordX[i]);
+		show_debug_message(coordY[i]);
+		w_w = window_get_width();
+		h_h = window_get_height();
+		m_x = window_mouse_get_x();
+		m_y = window_mouse_get_y();
+		if (m_x > w_w - w_w + 288) && (m_x < w_w - w_w + 336)&&(m_y > h_h - h_h + 240) && (m_y < h_h - h_h + 288){
+		//if(mouseOver(coordX[i], coordY[i], cellWidth, cellHeight)){
+		//if(mouseOver(500, 550, 750, 800)){
+			show_debug_message("h1");
+			if(global.slot[0] == "stone"){
+				show_debug_message("hh1");
+				global.slot[0] = "noone";
 				global.hotbar[1] = "stone";
 			}
 		}
 	}
 }
-//if(global.slot[i] == "stone"){
